@@ -1,0 +1,11 @@
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.exe.config
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.exe
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\bin\Debug\MiniPaintApp.pdb
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.Form1.resources
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.Properties.Resources.resources
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.csproj.GenerateResource.cache
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.exe
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.pdb
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.csproj.AssemblyReference.cache
+C:\Users\Minela\source\repos\MiniPaintApp\MiniPaintApp\obj\Debug\MiniPaintApp.csproj.SuggestedBindingRedirects.cache
